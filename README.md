@@ -1,5 +1,5 @@
 # Clobber_Game
-Final AI Project
+Final Project for AI university course
 <br/><hr/>
 ![](Capture.PNG)
 <br/><hr/>
