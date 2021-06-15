@@ -1,5 +1,6 @@
 # Clobber_Game
-Final Project for AI university course
+Final Project for AI university course<br/>
+Visualized by Pygame library
 <br/><hr/>
 ![](Capture.PNG)
 <br/><hr/>
